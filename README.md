@@ -104,15 +104,14 @@ order by total_profit DESC;
 ```
 
 9.**Monthly Sales Trend**
-
-``sql
+```sql
 SELECT DATE_FORMAT(Date, '%Y-%m') AS Month, SUM(Premium) AS Total_Premium
 FROM sales
 GROUP BY Month
 ORDER BY Month;
 ```
 
-10.**Insurer Profitability Index**
+10.**Insurer Profitability Index**:
 ```sql
 SELECT Insurer,
   AVG(Net_Profit) AS Avg_Profit,
