@@ -2,8 +2,6 @@ create database bnet;
 
 use bnet;
 
---- Total Premium---
-
 Select sum(Premium) AS Total_premium
 from sales;
 
