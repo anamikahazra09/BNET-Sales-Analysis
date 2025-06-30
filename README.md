@@ -48,11 +48,15 @@ The **BNET Sales Analysis Dashboard** is designed to help stakeholders track, un
 ---
 
 1. **Total Premium Collected**:
-```sql
+
 Select sum(Premium) AS Total_premium
 from sales;
 
-```
+
+2. **Total Commission Earned**:
+Select SUM(commission_amount) AS Total_Commission
+from sales;
+
 
 
 
