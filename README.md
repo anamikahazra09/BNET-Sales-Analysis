@@ -47,6 +47,9 @@ The **BNET Sales Analysis Dashboard** is designed to help stakeholders track, un
 
 ---
 
+##  SQL Queries
+
+
 1. **Total Premium Collected**:
 ```sql
 Select sum(Premium) AS Total_premium
@@ -134,7 +137,7 @@ GROUP BY Policy_Type
 order by policy_mix_percentage desc;
 ```
 
-12.** Insurer Dependency Risk**
+12.**Insurer Dependency Risk**
 ```sql
 SELECT
   Insurer,
@@ -144,5 +147,10 @@ FROM sales
 GROUP BY Insurer
 ORDER BY Profit DESC;
 ```
+
+13.**Insurer Dependency Risk**
+
+This project effectively combines MySQL for data processing and Power BI for visualization to deliver a comprehensive sales analysis dashboard. It enables data-driven decision-making by offering clear insights into sales performance, product trends, and regional growth—supporting strategic planning and operational efficiency.
+
 
 
