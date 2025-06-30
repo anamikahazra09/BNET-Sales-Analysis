@@ -104,6 +104,7 @@ order by total_profit DESC;
 ```
 
 9.**Monthly Sales Trend**
+
 ``sql
 SELECT DATE_FORMAT(Date, '%Y-%m') AS Month, SUM(Premium) AS Total_Premium
 FROM sales
