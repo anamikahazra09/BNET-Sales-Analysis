@@ -153,4 +153,11 @@ ORDER BY Profit DESC;
 This project effectively combines MySQL for data processing and Power BI for visualization to deliver a comprehensive sales analysis dashboard. It enables data-driven decision-making by offering clear insights into sales performance, product trends, and regional growth—supporting strategic planning and operational efficiency.
 
 
+13.**Conclusion**
+
+This project effectively combines MySQL for data processing and Power BI for visualization to deliver a comprehensive sales analysis dashboard. It enables data-driven decision-making by offering clear insights into sales performance, product trends, and regional growth—supporting strategic planning and operational efficiency.
+
+
+
+
 
