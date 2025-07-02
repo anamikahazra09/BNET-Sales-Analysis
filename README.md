@@ -36,7 +36,7 @@ The **BNET Sales Analysis Dashboard** is designed to help stakeholders track, un
 *  **Custom DAX Measures** – For complex metrics like Year-over-Year (YoY) growth, target achievement, and average deal size
 *  **Drill-through & Page Navigation** – For deep-diving into details without leaving the dashboard
 *  **Interactive Filters** – For dynamic data slicing (e.g., by product, time, region, team)
-*  
+
 
 ##  Target Audience
 
@@ -153,7 +153,7 @@ ORDER BY Profit DESC;
 This project effectively combines MySQL for data processing and Power BI for visualization to deliver a comprehensive sales analysis dashboard. It enables data-driven decision-making by offering clear insights into sales performance, product trends, and regional growth—supporting strategic planning and operational efficiency.
 
 
-13.**Conclusion**
+14.**Conclusion**
 
 This project effectively combines MySQL for data processing and Power BI for visualization to deliver a comprehensive sales analysis dashboard. It enables data-driven decision-making by offering clear insights into sales performance, product trends, and regional growth—supporting strategic planning and operational efficiency.
 
