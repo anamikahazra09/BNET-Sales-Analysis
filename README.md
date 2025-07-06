@@ -154,7 +154,8 @@ This project effectively combines MySQL for data processing and Power BI for vis
 
 14.**Interactive Dashboard**
 
-https://app.powerbi.com/reportEmbed?reportId=fd3b7075-a612-4915-8a32-02e038f99d14&autoAuth=true&ctid=f7638ed5-4407-4a6d-ae99-5a24fcdb9a37
+PowerBI Dashboard: [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=fd3b7075-a612-4915-8a32-02e038f99d14&autoAuth=true&ctid=f7638ed5-4407-4a6d-ae99-5a24fcdb9a37)
+
 
 
 14.**Conclusion**
